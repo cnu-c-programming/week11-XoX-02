@@ -7,7 +7,7 @@ enum State { OK = 0, ERR = -1, BUSY = 1};
 int main(void){
     printf("RED   = %d\n",RED);
     printf("GREEN = %d\n",GREEN);
-    printf("BULE  = %d\n",BLUE);
+    printf("BULE  = %d\n\n",BLUE);
 
     printf("OK    = %d\n",OK);
     printf("ERR   = %d\n",ERR);
